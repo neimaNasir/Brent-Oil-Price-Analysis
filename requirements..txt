@@ -1,0 +1,19 @@
+# Data Processing and Analysis
+pandas
+numpy
+scipy
+
+# Time Series and Statistical Modeling
+statsmodels
+arch==5.4.0  
+pmdarima==2.0.2 
+
+# Machine Learning and Deep Learning
+scikit-learn
+tensorflow==2.11.0  
+
+# Visualization
+matplotlib==3.6.2
+seaborn==0.12.1
+plotly==5.11.0  
+
